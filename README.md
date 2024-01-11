@@ -9,7 +9,8 @@ Node version 18.7.x
 ## Cloning the repository
 
 ```shell
-git clone https://github.com/akshat-g-07/Dukaan-Assignment.git
+git clone https://github.com/adi5233/dukaan-dashboard/tree/main
+
 ```
 
 ## Install packages
